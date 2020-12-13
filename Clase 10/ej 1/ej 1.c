@@ -14,8 +14,8 @@ int main(int argc, char *argv[])
 		scanf("%s",&nm);
 		if (nota>=8){
 			strcpy(mvp,nm);
-			strcat(ma,mvp);
-			strcat(ma," ");
+			strcat(mjal,mvp);
+			strcat(mjal," ");
 		}
 	}
 	printf("\n Los mejores alumnos son ");
